@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yfy324.github.io</id>
+    <title>Fengyu Yue&apos;s Homepage</title>
+    <updated>2022-11-17T04:21:45.502Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yfy324.github.io"/>
+    <link rel="self" href="https://yfy324.github.io/atom.xml"/>
+    <subtitle>Be a free and well-rounded person</subtitle>
+    <logo>https://yfy324.github.io/images/avatar.png</logo>
+    <icon>https://yfy324.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Fengyu Yue&apos;s Homepage</rights>
+    <entry>
+        <title type="html"><![CDATA[News]]></title>
+        <id>https://yfy324.github.io/post/news/</id>
+        <link href="https://yfy324.github.io/post/news/">
+        </link>
+        <updated>2022-10-25T08:50:27.000Z</updated>
+        <content type="html"><![CDATA[<p>...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publication]]></title>
+        <id>https://yfy324.github.io/post/publication/</id>
+        <link href="https://yfy324.github.io/post/publication/">
+        </link>
+        <updated>2022-10-25T08:44:30.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="2022">2022</h3>
+<p><strong>Fengyu Yue</strong>, Yong Wang. &quot;Cross-Domain Fault Diagnosis Via Meta-Learning-Based Domain Generalization.&quot; 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE 2022), Mexico City, Mexico. (Accepted)</p>
+<p><strong>Fengyu Yue</strong>, Ye Wang, Yong Wang, Bing Li, Renkai Chang, &quot;A Novel State Estimator Based on Algebraic Parametric Method.&quot;(Submitted).</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="2022">2022</h3>
+<p><strong>Fengyu Yue</strong>, Yong Wang. &quot;Cross-Domain Fault Diagnosis Via Meta-Learning-Based Domain Generalization.&quot; 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE 2022), Mexico City, Mexico. (Accepted)</p>
+<p><strong>Fengyu Yue</strong>, Ye Wang, Yong Wang, Bing Li, Renkai Chang, &quot;A Novel State Estimator Based on Algebraic Parametric Method.&quot;(Submitted).</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presentation]]></title>
+        <id>https://yfy324.github.io/post/presentation/</id>
+        <link href="https://yfy324.github.io/post/presentation/">
+        </link>
+        <updated>2022-10-25T08:43:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>CASE 2022</strong>: Presented our CASE paper online</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>CASE 2022</strong>: Presented our CASE paper online</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project]]></title>
+        <id>https://yfy324.github.io/post/project/</id>
+        <link href="https://yfy324.github.io/post/project/">
+        </link>
+        <updated>2022-10-25T08:35:01.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<ul>
+<li>Design and implementation of an intelligent fault diagnosis system for water pumps under small sample conditions</li>
+<li>Machine learning for classifying images by feature engineering</li>
+<li>Research and Application of Optimal Dispatching Technology for Pumping Station</li>
+<li>A Novel State Estimator Based on Algebraic Parametric Method</li>
+<li>Research on UAV landing technology based on satellite-inertial navigation combined guidance</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact]]></title>
+        <id>https://yfy324.github.io/post/contact/</id>
+        <link href="https://yfy324.github.io/post/contact/">
+        </link>
+        <updated>2022-10-25T08:28:44.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>yfy324@mail.ustc.edu.cn</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>yfy324@mail.ustc.edu.cn</p>
+<!-- more -->
+<h3 id="location">Location</h3>
+<p>No.443 Huangshan Road, Hefei<br>
+Anhui, China  230027</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fengyu Yue  岳凤玉]]></title>
+        <id>https://yfy324.github.io/post/Fengyu Yue/</id>
+        <link href="https://yfy324.github.io/post/Fengyu Yue/">
+        </link>
+        <updated>2022-10-25T03:18:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ms. Fengyu Yue is now pursuing her master's degree in the Department of Automation,  University of Science and Technology of China.<br>
+She obtained the B.Eng in Automation Engineering from Nanjing University of Aeronautics and Astronautics in 2020.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Ms. Fengyu Yue is now pursuing her master's degree in the Department of Automation,  University of Science and Technology of China.<br>
+She obtained the B.Eng in Automation Engineering from Nanjing University of Aeronautics and Astronautics in 2020.</p>
+<!-- more -->
+<h1 id="education">Education</h1>
+<ul>
+<li>
+<p>Sep 2020 -- Present<br>
+<strong>Master of Engineering</strong><br>
+Majoring in Electronic Information (Control Engineering)<br>
+<em>University of Science and Technology of China</em> (USTC), China<br>
+Department of Automation<br>
+Advisor: Prof. <em>Yong Wang</em></p>
+</li>
+<li>
+<p>Sep 2016 -- Jue 2020<br>
+<strong>Bachelor of Engineering</strong> <em>with Honor</em><br>
+Majored in Automation Engineering<br>
+<em>Nanjing University of Aeronautics and Astronautics</em> (NUAA), China</p>
+</li>
+</ul>
+<h1 id="experience">Experience</h1>
+<ul>
+<li>Nov 2021 -- Dec 2021<br>
+<strong>NII-USTC Sakura Science Plan Online</strong><br>
+<em>National Insititute of Informatics</em> (NII), Japan<br>
+Mentor: Prof. <em>YAMADA Seiji</em></li>
+</ul>
+<h1 id="research-interests">Research Interests</h1>
+<p>Her research focuses on intelligent fault diagnosis, early fault detection, and out-of-distribution generalization (including out-of-distribution detection and domain generalization).</p>
+<p>Her master's degree research project is to design and implement an intelligent fault diagnosis system for water pumps under small sample conditions. She models the fault diagnosis subtask as a domain generalization problem and the fault detection subtask as an out-of-distribution detection problem, taking into account the lack of high-quality training data and the unavailability of testing data at the training stage. She believes that proposing algorithms with better generalization performance and more robustness can significantly facilitate the application of machine learning in industrial scenarios.</p>
+<p>Her current research interests lie in out-of-distribution (OOD) generalization and its applications. OOD generalization can improve the utilization of training data, which is related to the basic research of machine learning. With OOD generalization algorithms, researchers can relax the restrictions on the number of training samples, the quality of labels, the independent and identical distribution of training and test data, and the accessibility of testing data at the training stage. On the other hand, research in this field makes it possible to use machine intelligence to promote economic development and improve the standard of living of people because this field has close connections to practical tasks, e.g., fault detection and diagnosis, medical diagnosis, fraud detection in finance, etc. She regards finding invariant causal mechanisms as a promising solution to OOD generalization.</p>
+]]></content>
+    </entry>
+</feed>
