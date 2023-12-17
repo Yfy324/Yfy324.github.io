@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yfy324.github.io</id>
+    <title>Fengyu Yue&apos;s Homepage</title>
+    <updated>2023-12-17T10:10:13.498Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yfy324.github.io"/>
+    <link rel="self" href="https://yfy324.github.io/atom.xml"/>
+    <subtitle>Be a free and well-rounded person</subtitle>
+    <logo>https://yfy324.github.io/images/avatar.png</logo>
+    <icon>https://yfy324.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Fengyu Yue&apos;s Homepage</rights>
+    <entry>
+        <title type="html"><![CDATA[News]]></title>
+        <id>https://yfy324.github.io/post/news/</id>
+        <link href="https://yfy324.github.io/post/news/">
+        </link>
+        <updated>2023-12-17T10:09:34.000Z</updated>
+        <content type="html"><![CDATA[<p>...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publication]]></title>
+        <id>https://yfy324.github.io/post/publication/</id>
+        <link href="https://yfy324.github.io/post/publication/">
+        </link>
+        <updated>2023-12-17T10:08:56.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="2022">2022</h3>
+<p><strong>Fengyu Yue</strong>, Yong Wang. &quot;Cross-Domain Fault Diagnosis Via Meta-Learning-Based Domain Generalization.&quot; 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE 2022), Mexico City, Mexico. (Accepted)</p>
+<p><strong>Fengyu Yue</strong>, Ye Wang, Yong Wang, Bing Li, Renkai Chang, &quot;A Novel State Estimator Based on Algebraic Parametric Method.&quot; 2023 35th Chinese Control and Decision Conference} (CCDC 2023). (Accepted)</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="2022">2022</h3>
+<p><strong>Fengyu Yue</strong>, Yong Wang. &quot;Cross-Domain Fault Diagnosis Via Meta-Learning-Based Domain Generalization.&quot; 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE 2022), Mexico City, Mexico. (Accepted)</p>
+<p><strong>Fengyu Yue</strong>, Ye Wang, Yong Wang, Bing Li, Renkai Chang, &quot;A Novel State Estimator Based on Algebraic Parametric Method.&quot; 2023 35th Chinese Control and Decision Conference} (CCDC 2023). (Accepted)</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presentation]]></title>
+        <id>https://yfy324.github.io/post/presentation/</id>
+        <link href="https://yfy324.github.io/post/presentation/">
+        </link>
+        <updated>2023-12-17T10:08:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>CASE 2022</strong>: Presented our CASE paper online</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>CASE 2022</strong>: Presented our CASE paper online</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project]]></title>
+        <id>https://yfy324.github.io/post/project/</id>
+        <link href="https://yfy324.github.io/post/project/">
+        </link>
+        <updated>2023-12-17T10:08:18.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<ul>
+<li>Design and Implementation of A Domain-Generalization-based Cross-Domain Intelligent Fault Diagnosis System for Bearings</li>
+<li>Machine learning for classifying images by feature engineering</li>
+<li>Research and Application of Optimal Dispatching Technology for Pumping Station</li>
+<li>A Novel State Estimator Based on Algebraic Parametric Method</li>
+<li>Research on UAV landing technology based on satellite-inertial navigation combined guidance</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact]]></title>
+        <id>https://yfy324.github.io/post/contact/</id>
+        <link href="https://yfy324.github.io/post/contact/">
+        </link>
+        <updated>2023-12-17T10:05:29.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>fengyu.yue@campus.technion.ac.il</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>fengyu.yue@campus.technion.ac.il</p>
+<!-- more -->
+<h3 id="location">Location</h3>
+<p>No.97 Jingsan Road, Chengdu<br>
+Sichuan, China  610091</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fengyu Yue  岳凤玉]]></title>
+        <id>https://yfy324.github.io/post/Fengyu Yue/</id>
+        <link href="https://yfy324.github.io/post/Fengyu Yue/">
+        </link>
+        <updated>2023-12-17T06:35:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ms. Fengyu Yue is now a research student at the Faculty of Aerospace Engineering, Israel Institute of Technology (Technion).<br>
+She received a Bachelor's degree in Automation Engineering from the Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and  a Master's degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC) in 2023.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Ms. Fengyu Yue is now a research student at the Faculty of Aerospace Engineering, Israel Institute of Technology (Technion).<br>
+She received a Bachelor's degree in Automation Engineering from the Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and  a Master's degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC) in 2023.</p>
+<!-- more -->
+<h1 id="education">Education</h1>
+<ul>
+<li>
+<p>Sep 2020 -- Jun 2023<br>
+<strong>Master of Engineering</strong><br>
+Majoring in Electronic and Information Engineering<br>
+<em>University of Science and Technology of China</em> (USTC), China<br>
+Department of Automation<br>
+Advisor: Prof. <em>Yong Wang</em></p>
+</li>
+<li>
+<p>Sep 2016 -- Jun 2020<br>
+<strong>Bachelor of Engineering</strong> <em>with Honor</em><br>
+Majored in Automation Engineering<br>
+<em>Nanjing University of Aeronautics and Astronautics</em> (NUAA), China</p>
+</li>
+</ul>
+<h1 id="experience">Experience</h1>
+<ul>
+<li>
+<p>Oct 2023 -- Present<br>
+<strong>Research Student</strong><br>
+<em>Israel Institute of Technology</em>(Technion), Israel<br>
+Faulty of Aerospace Engineering<br>
+Advisor: Prof. <em>Daniel Zelazo</em></p>
+</li>
+<li>
+<p>Nov 2021 -- Dec 2021<br>
+<strong>NII-USTC Sakura Science Plan Online</strong><br>
+<em>National Insititute of Informatics</em> (NII), Japan<br>
+Mentor: Prof. <em>YAMADA Seiji</em></p>
+</li>
+</ul>
+<h1 id="research-interests">Research Interests</h1>
+<p>Her research focuses on graph theory, multiagent systems, control theroy.</p>
+]]></content>
+    </entry>
+</feed>
