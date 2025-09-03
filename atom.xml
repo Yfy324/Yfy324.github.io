@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yfy324.github.io</id>
+    <title>Fengyu Yue&apos;s Homepage</title>
+    <updated>2025-09-03T16:07:35.591Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yfy324.github.io"/>
+    <link rel="self" href="https://yfy324.github.io/atom.xml"/>
+    <logo>https://yfy324.github.io/images/avatar.png</logo>
+    <icon>https://yfy324.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Fengyu Yue&apos;s Homepage</rights>
+    <entry>
+        <title type="html"><![CDATA[News]]></title>
+        <id>https://yfy324.github.io/post/news/</id>
+        <link href="https://yfy324.github.io/post/news/">
+        </link>
+        <updated>2025-08-01T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>I was awarded the Technion Departmental Excellence Scholarship!</p>
+<br>
+<p><a href="https://yfy324.github.io/post/cdc25">One paper is accepted by the 2025 Conference on Decision and Control</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/ejc">The ECC2025 paper is seleted to published on European Journal of Control ECC 2025 Special Issue!</a></p>
+<br> 
+<p><a href="https://yfy324.github.io/post/ecc25">Present at the 2025 European Control Conference</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/iaac25">Present at the 2025 IAAC Control Conference</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/phd-student">I am now officially a PhD student at the Technion!</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>I was awarded the Technion Departmental Excellence Scholarship!</p>
+<br>
+<p><a href="https://yfy324.github.io/post/cdc25">One paper is accepted by the 2025 Conference on Decision and Control</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/ejc">The ECC2025 paper is seleted to published on European Journal of Control ECC 2025 Special Issue!</a></p>
+<br> 
+<p><a href="https://yfy324.github.io/post/ecc25">Present at the 2025 European Control Conference</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/iaac25">Present at the 2025 IAAC Control Conference</a></p>
+<br>
+<p><a href="https://yfy324.github.io/post/phd-student">I am now officially a PhD student at the Technion!</a></p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact]]></title>
+        <id>https://yfy324.github.io/post/contact/</id>
+        <link href="https://yfy324.github.io/post/contact/">
+        </link>
+        <updated>2024-10-24T12:28:44.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>fengyu.yue@campus.technion.ac.il</p>
+<h3 id="linkedin">LinkedIn</h3>
+<p><a href="https://www.linkedin.com/in/fengyu-yue-8849a6314/">LinkedIn</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="e-mail">E-mail</h3>
+<p>fengyu.yue@campus.technion.ac.il</p>
+<h3 id="linkedin">LinkedIn</h3>
+<p><a href="https://www.linkedin.com/in/fengyu-yue-8849a6314/">LinkedIn</a></p>
+<!-- more -->
+<h3 id="location">Location</h3>
+<p>Lady Davis Building, Technion<br>
+Haifa, Israel</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fengyu Yue  岳凤玉]]></title>
+        <id>https://yfy324.github.io/post/Fengyu Yue/</id>
+        <link href="https://yfy324.github.io/post/Fengyu Yue/">
+        </link>
+        <updated>2022-10-23T16:18:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ms. Fengyu Yue is now a PhD student at the Faculty of Aerospace Engineering, Israel Institute of Technology (Technion) supervised by <a href="https://connect-lab-technion.github.io/team/DanielZelazo/">Prof. Daniel Zelazo</a>.<br>
+She received a Bachelor's degree in Automation Engineering from the Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and a Master's degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC) in 2023.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Ms. Fengyu Yue is now a PhD student at the Faculty of Aerospace Engineering, Israel Institute of Technology (Technion) supervised by <a href="https://connect-lab-technion.github.io/team/DanielZelazo/">Prof. Daniel Zelazo</a>.<br>
+She received a Bachelor's degree in Automation Engineering from the Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and a Master's degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC) in 2023.</p>
+<!-- more -->
+<h1 id="education">Education</h1>
+<ul>
+<li>
+<p>Jan 2024 -- Now<br>
+<strong>PhD student</strong><br>
+Technion - Israel Institute of Technion, Israel<br>
+The Stephen B. Klein Faculty of Aerospace Enginnering<br>
+Advisor: Prof. <em>Daniel Zelazo</em></p>
+</li>
+<li>
+<p>Sep 2020 -- Jun 2023<br>
+<strong>Master of Engineering</strong><br>
+Majoring in Electronic Information (Control Engineering)<br>
+<em>University of Science and Technology of China</em> (USTC), China<br>
+Department of Automation<br>
+Advisor: Prof. <em>Yong Wang</em></p>
+</li>
+<li>
+<p>Sep 2016 -- Jue 2020<br>
+<strong>Bachelor of Engineering</strong> <em>with Honor</em><br>
+Majored in Automation Engineering<br>
+<em>Nanjing University of Aeronautics and Astronautics</em> (NUAA), China</p>
+</li>
+</ul>
+<h1 id="experience">Experience</h1>
+<ul>
+<li>Nov 2021 -- Dec 2021<br>
+<strong>NII-USTC Sakura Science Plan Online</strong><br>
+<em>National Insititute of Informatics</em> (NII), Japan<br>
+Mentor: Prof. <em>YAMADA Seiji</em></li>
+</ul>
+<h1 id="research-interests">Research Interests</h1>
+<p>Her research focuses on multiagent networks, control theory, passivity and graph theory.</p>
+]]></content>
+    </entry>
+</feed>
